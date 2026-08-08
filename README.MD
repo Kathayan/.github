@@ -1,1 +1,0 @@
-# Kathayan (A Regional E-Commerce Highlighting Filipino Products)
